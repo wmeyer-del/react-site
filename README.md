@@ -1,11 +1,25 @@
+# React Site – JPS-iQ Solutions (Figma → Vite → GitHub Pages)
 
-  # B2B Cloud Solutions Website
+Dies ist die React-Implementierung der JPS-iQ Solutions Website, exportiert aus Figma und implementiert mit **Vite**, **React** und **Tailwind**.  
+Die Seite wird automatisch über **GitHub Actions** auf **GitHub Pages** deployed.
 
-  This is a code bundle for B2B Cloud Solutions Website. The original project is available at https://www.figma.com/design/m1kep4gS46jaRMBlIAyj4c/B2B-Cloud-Solutions-Website.
+**Live-Version:**  
+➡️ https://wmeyer-del.github.io/react-site/
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## 🚀 Tech Stack
 
-  Run `npm run dev` to start the development server.
-  
+- **React 18**
+- **Vite**
+- **TypeScript (falls genutzt)**
+- **Tailwind CSS**
+- GitHub Actions CI/CD
+- GitHub Pages Hosting
+
+---
+
+## 📦 Installation
+
+```bash
+npm install
